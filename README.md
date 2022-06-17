@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dabcodes
 - 👀 I’m interested in developing simple solutions to problems
 - 🌱 I’m currently learning learning Python
-- 💞️ I’m looking to collaborate on with YOU!
+- 💞️ I’m looking to collaborate with YOU!
 - 📫 How to reach me @dabcodes
 
 <!---
